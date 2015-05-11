@@ -1,0 +1,3 @@
+Longitud promedio: 25.2
+Cantidad de lineas: 29
+Cantidad de caracteres: 730
