@@ -12,6 +12,10 @@
 
 7. Se aplica un *casteo* para que la expresión se evalue mediante un *float* y no sea, entonces, una división entera teniendo así más precisión en el resultado.
 
+8. ~~No corresponde una respuesta~~
+
+9. ~~No corresponde una respuesta~~
+
 10. Este programa no funciona correctamente para una entrada de flujo vacía.
 
 11. No es precisa porque cuenta como carácter el dato `\n` en el ciclo y no considera que las variables contador `nl` y `nc` se inicializan en 0.
